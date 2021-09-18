@@ -1,4 +1,4 @@
-package com.springboot.bookstore.entity;
+package com.github.fabiomqs.bookstore.entity;
 
 import java.io.Serializable;
 import javax.persistence.Entity;

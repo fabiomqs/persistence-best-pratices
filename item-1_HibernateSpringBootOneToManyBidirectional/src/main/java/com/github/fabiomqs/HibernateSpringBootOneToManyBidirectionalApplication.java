@@ -1,7 +1,6 @@
-package com.springboot;
+package com.github.fabiomqs;
 
-import com.springboot.bookstore.service.BookstoreService;
-import org.springframework.beans.factory.annotation.Autowired;
+import com.github.fabiomqs.bookstore.service.BookstoreService;
 import org.springframework.boot.ApplicationRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

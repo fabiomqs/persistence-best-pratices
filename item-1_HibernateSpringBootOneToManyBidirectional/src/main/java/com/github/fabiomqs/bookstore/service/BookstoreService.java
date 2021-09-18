@@ -1,8 +1,8 @@
-package com.springboot.bookstore.service;
+package com.github.fabiomqs.bookstore.service;
 
-import com.springboot.bookstore.entity.Author;
-import com.springboot.bookstore.entity.Book;
-import com.springboot.bookstore.repository.AuthorRepository;
+import com.github.fabiomqs.bookstore.entity.Author;
+import com.github.fabiomqs.bookstore.entity.Book;
+import com.github.fabiomqs.bookstore.repository.AuthorRepository;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 

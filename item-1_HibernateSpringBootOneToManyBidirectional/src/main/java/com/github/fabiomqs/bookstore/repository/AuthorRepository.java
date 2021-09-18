@@ -1,5 +1,5 @@
-package com.springboot.bookstore.repository;
-import com.springboot.bookstore.entity.Author;
+package com.github.fabiomqs.bookstore.repository;
+import com.github.fabiomqs.bookstore.entity.Author;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;
