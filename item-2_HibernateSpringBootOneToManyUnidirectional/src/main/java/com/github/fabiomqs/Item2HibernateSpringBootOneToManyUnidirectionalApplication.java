@@ -1,4 +1,4 @@
-package com.fabiomqs;
+package com.github.fabiomqs;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
